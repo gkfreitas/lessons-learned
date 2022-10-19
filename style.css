@@ -15,7 +15,7 @@ body {
   padding: 20px;
   color: white;
   line-height: 1px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: ' Courier New', Courier, monospace;
 }
 
 #minha_foto {
@@ -43,4 +43,20 @@ body {
 .centraliza {
   text-align: center;
   border: 1px solid black;
+}
+
+.lado-direito {
+  width: 50%;
+  max-width: 300px;
+  float: right;
+}
+
+.lado-esquerdo {
+  width: 50%;
+  max-width: 300px;
+  float: left;
+}
+
+.clear {
+  clear: both;
 }
