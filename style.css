@@ -13,6 +13,9 @@ body {
   width: 100%;
   text-align: center;
   padding: 20px;
+  color: white;
+  line-height: 1px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #minha_foto {
@@ -27,12 +30,14 @@ body {
 #lista-aprender {
   display: inline-block;
   margin: 0 auto;
+  font-size: 20px;
 }
 
 #lista-aprendizado {
   display: inline-block;
   margin: auto;
   margin-top: 10px;
+  font-size: 20px;
 }
 
 .centraliza {
